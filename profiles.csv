@@ -1,0 +1,93 @@
+Nom,Competences,Experience (annees),Localisation,Disponibilite
+Karim,"Developpement web, PHP, Laravel",5,Tunis,dans 1 semaine
+Amira,"Design graphique, Photoshop",3,Sfax,immediate
+Mohamed,"Reseaux, Cisco, Firewall",7,Sousse,dans 2 semaines
+Salma,"Marketing digital, SEO",4,Tunis,immediate
+Houssem,"Data Science, Python",6,Ariana,dans 3 jours
+Farah,"Comptabilite, Sage",8,Monastir,dans 1 semaine
+Ali,"Mobile, Flutter",5,Nabeul,immediate
+Lina,"RH, Recrutement",4,Bizerte,dans 2 jours
+Omar,"Cybersecurite, Pentesting",9,Sfax,dans 1 mois
+Yosra,"Architecture, AutoCAD",6,Gabes,immediate
+Rami,"DevOps, Kubernetes",7,Tunis,dans 1 semaine
+Nadia,"Traduction, Anglais",5,Tozeur,dans 3 jours
+Khalil,Genie electrique,10,Tataouine,dans 2 semaines
+Sara,"Infirmiere, Soins",4,Kairouan,immediate
+Anis,Developpement .NET,8,Sousse,dans 1 semaine
+Ines,Communication,6,Tunis,dans 3 jours
+Wassim,Maintenance industrielle,12,Sfax,dans 1 mois
+Leila,Enseignement maths,15,Monastir,immediate
+Malek,"Python, Django",5,Ariana,dans 2 semaines
+Hajer,Design interieur,7,Nabeul,dans 1 semaine
+Zied,"Cloud, AWS",6,Bizerte,immediate
+Rym,Journalisme,4,Gabes,dans 3 jours
+Bilel,"Electronique, IoT",8,Tozeur,dans 1 mois
+Selma,Gestion de projet,5,Tataouine,immediate
+Tarek,"Java, Spring",7,Kairouan,dans 2 semaines
+Nour,Photographie,3,Sousse,dans 1 semaine
+Fares,Support technique,4,Tunis,immediate
+Dorra,Analyse financiere,6,Sfax,dans 3 jours
+Aymen,"Genie civil, BIM",9,Monastir,dans 1 mois
+Hela,Psychologie,11,Ariana,immediate
+Marwen,"JavaScript, React",5,Nabeul,dans 2 semaines
+Sirine,Social media,4,Bizerte,dans 1 semaine
+Aziz,"Qualite, ISO",8,Gabes,immediate
+Myriam,Sage-femme,7,Tozeur,dans 3 jours
+Haythem,"Telecom, 5G",10,Tataouine,dans 1 mois
+Ghada,Dietetique,5,Kairouan,immediate
+Raed,"C++, Qt",6,Sousse,dans 2 semaines
+Soumaya,Vente,4,Tunis,dans 1 semaine
+Chadi,Mecanique auto,8,Sfax,immediate
+Dalia,"UX/UI, Figma",5,Monastir,dans 3 jours
+Walid,"Big Data, Spark",7,Ariana,dans 1 mois
+Nesrine,Administratif,3,Nabeul,immediate
+Mehdi,WordPress,6,Bizerte,dans 2 semaines
+Samar,Biologie medicale,9,Gabes,dans 1 semaine
+Aymen,Electricite,5,Tozeur,immediate
+Feryel,Event management,4,Tataouine,dans 3 jours
+Karim,Genie logiciel,7,Kairouan,dans 1 mois
+Houda,Enseignement,12,Sousse,immediate
+Yassin,"iOS, Swift",5,Tunis,dans 2 semaines
+Lina,Logistique,4,Sfax,dans 1 semaine
+Ahmed,Mecatronique,6,Monastir,immediate
+Sabrine,"Droit, Juridique",8,Ariana,dans 3 jours
+Bassem,"AI, TensorFlow",5,Nabeul,dans 1 mois
+Ichrak,Design mode,3,Bizerte,immediate
+Maher,Chimie industrielle,9,Gabes,dans 2 semaines
+Rania,Call center,2,Tozeur,dans 1 semaine
+Adel,Geologie,11,Tataouine,immediate
+Eya,Pedagogie,4,Kairouan,dans 3 jours
+Zouheir,Maintenance aeronautique,7,Sousse,dans 1 mois
+Nada,Esthetique,5,Tunis,immediate
+Firas,Blockchain,6,Sfax,dans 2 semaines
+Hana,Bibliothecaire,10,Monastir,dans 1 semaine
+Mourad,Agriculture,8,Ariana,immediate
+Yosr,Redaction web,3,Nabeul,dans 3 jours
+Khaled,Audit financier,12,Bizerte,dans 1 mois
+Saoussen,Pu�riculture,6,Gabes,immediate
+Iheb,Robotique,5,Tozeur,dans 2 semaines
+Sana,Fitness coach,4,Tataouine,dans 1 semaine
+Atef,Genie maritime,9,Kairouan,immediate
+Mariem,Hotellerie,7,Sousse,dans 3 jours
+Bechir,Data mining,5,Tunis,dans 1 mois
+Salma,Archivage,3,Sfax,immediate
+Nizar,"GIS, Cartographie",8,Monastir,dans 2 semaines
+Douaa,Coaching,6,Ariana,dans 1 semaine
+Hatem,Imprimerie,10,Nabeul,immediate
+Rahma,Decoration,4,Bizerte,dans 3 jours
+Amine,Reassurance,7,Gabes,dans 1 mois
+Jawher,Transport logistique,5,Tozeur,immediate
+Safa,Orthophonie,9,Tataouine,dans 2 semaines
+Mohsen,Plomberie,12,Kairouan,dans 1 semaine
+Aicha,Assistance sociale,6,Sousse,immediate
+Wael,Maintenance medicale,4,Tunis,dans 3 jours
+Hafedh,Elevage,8,Sfax,dans 1 mois
+Nourhene,Stylisme,5,Monastir,immediate
+Riad,Genie climatique,7,Ariana,dans 2 semaines
+Mayssa,Tourisme,3,Nabeul,dans 1 semaine
+Salsabil,Musique,6,Gabes,dans 3 jours
+Foued,Oenologie,4,Tozeur,dans 1 mois
+Samih,Menuiserie,11,Tataouine,immediate
+Yara,Animation culturelle,5,Kairouan,dans 2 semaines
+Taha,Signaletique,7,Sousse,dans 1 semaine
+Olfa,Naturopathie,3,Tunis,immediate
